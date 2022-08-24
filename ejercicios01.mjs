@@ -2,7 +2,7 @@
 
 
 /**
- * Ejercicio 1.
+ * Ejercicio 1. Bueno
  * Programa una función que cuente el número de caracteres de una cadena de texto
  * @param {string} cadena Cadena sobre la que se realizará el conteo.
  * @returns Un número entero con los caracteres
