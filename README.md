@@ -8,5 +8,3 @@ En este comit agrego un texto bonito
 Sigo con texto bonito
 
 Texto final bonito
-
-Muerte
