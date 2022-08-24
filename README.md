@@ -4,7 +4,6 @@ El modulo  Test.js contiene las pruebas unitarias realizadas a las funciones.
 
 En este comit agrego un texto bonito
 
-Ahora pongo este texto que esta malo
 
 Sigo con texto bonito
 
